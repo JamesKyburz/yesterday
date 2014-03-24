@@ -15,8 +15,7 @@
       "opera/15..latest",
       "android-browser/latest",
       "iphone/6..latest",
-      "ipad/6..latest",
-      "safari/6.0..latest"
+      "ipad/6..latest"
     ]
   },
   "devDependencies": {
